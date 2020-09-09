@@ -1,4 +1,4 @@
-# Template: eece5560-base
+# Template: CSCE274-base
 
 This template provides a boilerplate repository
 for developing ROS-based software in Duckietown.
