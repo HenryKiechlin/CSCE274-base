@@ -2,7 +2,7 @@
 
 This template provides a boilerplate repository
 for developing ROS-based software in Duckietown.
-Use it for UML EECE 5560
+Use it for CSCE 274 Robotic Applications and Design
 
 ## How to use it
 
